@@ -1,3 +1,5 @@
+
+** NOTE: I have splited my report in 10 pages because the original pdf was to large
 # Russia's equipment losses in Ukraine: Perspectives from the Oryx open-source project and Ukrainian reports
 
 **Through this analysis, we aim to examine the equipment losses of the Russian army in Ukraine, considering two distinct perspectives: 
